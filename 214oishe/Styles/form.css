@@ -1,0 +1,58 @@
+form{
+    margin:auto;
+    width:500px;
+    padding:1em;
+    border:2px Solid brown;
+    border-radius: 2em;
+    background-image: url(../Images/clr.jpg);
+    
+    }
+div{
+    margin-top:1em;
+}
+label{
+    display: inline-block;
+    width:160px;
+    text-align:right;
+}
+.button{
+    margin-left: 20em;
+}
+input,textarea{
+    font:1em sans-serif;
+    width:180px;
+    
+    border:1px solid black;
+    border-radius: 1em;
+}
+.radio{
+text-align:left;
+
+}
+#radio1,#radio2{
+    width:30px
+}
+fieldset{
+    margin:auto;
+    width:400px;
+    padding:1em;
+    border:1px Solid black;
+    }
+
+   
+.button{
+    margin-left: 15em;
+    color:black;
+    width:100px;
+    
+}
+h1{
+font-size: 30px;
+color:Black;
+font-family: 'Orbitron', sans-serif;
+margin:0;
+padding:20px 0;
+}
+p{
+    text-align:right;
+}
